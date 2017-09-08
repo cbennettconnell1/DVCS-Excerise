@@ -6,6 +6,7 @@
       <siteMapNode url="" title="WebPages" description="dropdown webpages">
           <siteMapNode url="~/WebPages/WebPage1.aspx" title="WebPage1"  description="WebPage1" />
           <siteMapNode url="~/WebPages/WebPage2.aspx" title="WebPage2"  description="WebPage2" />
+          <siteMapNode url="~/WebPages/WebPage3.aspx" title="WebPage3"  description="WebPage3" />
       </siteMapNode>
       
       <siteMapNode url="~/About.aspx" title="About"  description="About page" />
